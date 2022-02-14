@@ -1,5 +1,6 @@
 # CS7375_Assignment1
 Assignment 1 (8 Puzzle) for CS7375-Artificial Intelligence Spring 2022
+
 This code solves 8-puzzles using Breadth-First Search, Depth-First Search, and Uniform Cost Search.
 
 mdowell_eightPuzzle.py is the main file to run.
